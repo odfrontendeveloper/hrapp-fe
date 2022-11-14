@@ -1,0 +1,4 @@
+{
+    "*.+(ts|tsx)": ["npm run lint"],
+    "*.+(ts|tsx|json)": ["npm run format", "git add"]
+}
