@@ -1,0 +1,51 @@
+{
+    "competence": "Competence name",
+    "competencies": "Competencies",
+    "position": "Work position: ",
+    "formTitle": {
+        "create": "Create competence",
+        "edit": "Edit competence",
+        "delete": "Are you sure you want to delete competence?"
+    },
+    "sign": {
+        "create": {
+            "signText": "Sign text",
+            "criterionText": "Criterion text",
+            "totalPercentage": "Total percentge sholud be 100:",
+            "totalPercentageForSingle": "One of criteria should have nax value (100):",
+            "signType": "Sign type",
+            "addCriterion": "Add criterion",
+            "signTypes": {
+                "single": "Single choice",
+                "multi": "Multiple choice"
+            },
+            "error": {
+                "emptySignText": "Sign text field should be filled",
+                "emptyCriteria": "All criteria text fields should be filled",
+                "wrongCalc": "The percentage rule must be met"
+            }
+        },
+        "delete": "Are you sure you want to delete sign?",
+        "success": {
+            "create": "Sign created",
+            "edit": "Sign edited",
+            "delete": "Sign deleted"
+        }
+    },
+    "forms": {
+        "createForm": "Create evaluation form",
+        "editForm": "Edit evaluation form",
+        "deleteForm": "Delete evaluation form",
+        "form": "Evaluation form name",
+        "success": {
+            "create": "Evaluation form created",
+            "edit": "Evaluation form edited",
+            "delete": "Evaluation form deleted"
+        }
+    },
+    "success": {
+        "create": "Competence created",
+        "edit": "Competence edited",
+        "delete": "Competence deleted"
+    }
+}

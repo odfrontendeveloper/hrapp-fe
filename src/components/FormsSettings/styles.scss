@@ -1,0 +1,16 @@
+@import 'variables.scss';
+
+.formsSettingsTable {
+    & td {
+        border: 1px solid $grey;
+        padding: 10px 25px;
+        text-align: center;
+        white-space: nowrap;
+    }
+}
+
+.competenceNameTd {
+    & a {
+        text-decoration: none !important;
+    }
+}

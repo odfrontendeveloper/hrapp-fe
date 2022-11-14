@@ -1,0 +1,30 @@
+{
+    "createSession": "Create session",
+    "deleteSession": "Delete session",
+    "api": {
+        "create": "Session created",
+        "edit": "Session edited",
+        "delete": "Session deleted"
+    },
+    "table": {
+        "name": "Session name",
+        "isActive": "Is session active"
+    },
+    "editSession": {
+        "title": "Edit session"
+    },
+    "sendSuccess": "Form saved",
+    "steps": {
+        "step1": {
+            "form": "Enter session name"
+        },
+        "step2": {
+            "title": "Assessment settings",
+            "table": {
+                "appraiser": "Appraiser",
+                "assessedEmployee": "Assessed employee",
+                "evaluationForm": "Evaluation form"
+            }
+        }
+    }
+}

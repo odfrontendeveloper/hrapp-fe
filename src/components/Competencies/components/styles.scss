@@ -1,0 +1,53 @@
+@import 'variables.scss';
+
+$warningSignColor: #fdbe00;
+$warningSignBgColor: #fff8b9;
+
+$successSignColor: #147b00;
+$successSignBgColor: #e4ffb9;
+
+.signContainer {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px 1px $grey;
+
+    &Title {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 10px;
+    }
+}
+
+.percentageField {
+    font-weight: bold !important;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &Yellow {
+        background-color: $warningSignBgColor;
+        border: 3px solid $warningSignColor;
+    }
+
+    &Green {
+        background-color: $successSignBgColor;
+        border: 3px solid $successSignColor;
+    }
+}
+
+.sliderContainer {
+    width: 100%;
+    position: relative;
+}
+
+.progressBar {
+    position: absolute;
+    margin-top: 5px;
+    height: 20px;
+}

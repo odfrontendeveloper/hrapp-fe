@@ -1,0 +1,14 @@
+{
+    "profile": {
+        "title": "Change profile",
+        "success": "Profile changed"
+    },
+    "password": {
+        "title": "Change password",
+        "old": "Old password",
+        "new": "New password",
+        "success": "Password changed"
+    },
+    "save": "Save",
+    "close": "Close"
+}

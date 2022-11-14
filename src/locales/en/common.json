@@ -1,0 +1,60 @@
+{
+    "active": {
+        "title": "Active",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "roles": {
+        "title": "User type",
+        "owner": "Organization owner",
+        "admin": "Administrator",
+        "staff": "Staff"
+    },
+    "add": "Add",
+    "loadmore": "Load more",
+    "filter": "Filter",
+    "positionname": "Position name",
+    "create": "Create",
+    "continue": "Continue",
+    "back": "Back",
+    "save": "Save",
+    "select": "Select",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "reset": "Reset",
+    "menu": {
+        "profile": "Profile",
+        "staff": "Staff",
+        "workpositions": "Work positions",
+        "forms": "Evaluation forms",
+        "sessions": "Sessions",
+        "invitations": "Invitations",
+        "settings": "Settings",
+        "logout": "Logout"
+    },
+    "search": {
+        "email": "Search by email",
+        "name": "Search by name",
+        "default": "Search"
+    },
+    "errors": {
+        "unauthorized": "Authorisation error",
+        "invalidform": "Invalid evaluation form",
+        "forbidden": "Access denied",
+        "incorrectdata": "Incorrect data",
+        "usernotfound": "User not found",
+        "incorrectpassword": "Incorrect password",
+        "userexists": "User with this email already exists",
+        "positionnotfound": "Work position not found",
+        "positionexists": "Work position with this name already exists",
+        "positionDeleteUserBindError": "This position cannot be deleted because some users are attached to it",
+        "competenceNotFound": "Competence not found",
+        "templateNotFound": "Template not found",
+        "signNotFound": "Criterion not found",
+        "default": "An error occured"
+    },
+    "success": {
+        "edited": "Data edited"
+    }
+}

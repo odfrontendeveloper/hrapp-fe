@@ -1,0 +1,20 @@
+@import 'variables.scss';
+
+.pageHeader {
+    display: flex;
+    align-items: center;
+
+    & .operationsContainer {
+        background-color: $white;
+        padding: 4px;
+        margin-left: 25px;
+        border-radius: 4px;
+    }
+
+    & .searchField {
+        background-color: $white;
+        margin-left: 25px;
+        border-radius: 4px;
+        width: 200px;
+    }
+}

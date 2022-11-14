@@ -1,0 +1,25 @@
+{
+    "createUser": "Add user",
+    "position": "Position",
+    "currentPosition": "Current position",
+    "newPosition": "New position",
+    "resetPosition": "Reset position",
+    "confirmDeleteUser": "Are you sure you want to delete this user?",
+    "userEdit": {
+        "main": "Edit user: ",
+        "password": "Password",
+        "profile": "Profile",
+        "role": "Type",
+        "position": "Position",
+        "permissions": "Permissions",
+        "delete": "Delete user"
+    },
+    "permissions": {
+        "can_manage_staff": "Staff management",
+        "can_manage_forms": "Forms management",
+        "can_manage_assessments": "Staff assessments management"
+    },
+    "api": {
+        "created": "User created"
+    }
+}

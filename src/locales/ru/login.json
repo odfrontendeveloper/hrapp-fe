@@ -1,0 +1,28 @@
+{
+    "signIn": {
+        "title": "Авторизация",
+        "form": {
+            "title": "Авторизация",
+            "fields": {
+                "email": "Email",
+                "password": "Пароль"
+            },
+            "submit": "Войти"
+        }
+    },
+    "signUp": {
+        "title": "Регистрация",
+        "form": {
+            "title": "Регистрация",
+            "fields": {
+                "firstname": "Имя",
+                "middlename": "Отчество",
+                "lastname": "Фамилия",
+                "organization": "Название организации",
+                "email": "Email",
+                "password": "Пароль"
+            },
+            "submit": "Зарегистрироваться"
+        }
+    }
+}

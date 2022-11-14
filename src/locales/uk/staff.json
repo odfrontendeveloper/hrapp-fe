@@ -1,0 +1,25 @@
+{
+    "createUser": "Додати користувача",
+    "position": "Посада",
+    "currentPosition": "Поточна посада",
+    "newPosition": "Нова посада",
+    "resetPosition": "Скинути посаду",
+    "confirmDeleteUser": "Ви впевнені, що хочете видалити цього користувача?",
+    "userEdit": {
+        "main": "Редагування користувача: ",
+        "password": "Пароль",
+        "profile": "Профіль",
+        "role": "Тип",
+        "position": "Посада",
+        "permissions": "Права доступу",
+        "delete": "Видалити користувача"
+    },
+    "permissions": {
+        "can_manage_staff": "Адміністрування персоналу",
+        "can_manage_forms": "Адміністрування оціночних листів",
+        "can_manage_assessments": "Адміністрування заходів з оцінки персоналу"
+    },
+    "api": {
+        "created": "Користувача додано"
+    }
+}

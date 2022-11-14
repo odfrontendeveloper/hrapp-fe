@@ -1,0 +1,30 @@
+{
+    "createSession": "Створити сесію",
+    "deleteSession": "Видалити сесію",
+    "api": {
+        "create": "Сесію створено",
+        "edit": "Сесію змінено",
+        "delete": "Сесію видалено"
+    },
+    "table": {
+        "name": "Назва сесії",
+        "isActive": "Чи активна сесія"
+    },
+    "editSession": {
+        "title": "Редагування сесії"
+    },
+    "sendSuccess": "Форму збережена",
+    "steps": {
+        "step1": {
+            "form": "Введіть назву сесії"
+        },
+        "step2": {
+            "title": "Налаштування оцінювання",
+            "table": {
+                "appraiser": "Оцінювач",
+                "assessedEmployee": "Оцінюється",
+                "evaluationForm": "Оціночний лист"
+            }
+        }
+    }
+}

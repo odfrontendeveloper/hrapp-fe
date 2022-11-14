@@ -1,0 +1,28 @@
+{
+    "signIn": {
+        "title": "Авторизація",
+        "form": {
+            "title": "Авторизація",
+            "fields": {
+                "email": "Email",
+                "password": "Пароль"
+            },
+            "submit": "Увійти"
+        }
+    },
+    "signUp": {
+        "title": "Реєстрація",
+        "form": {
+            "title": "Реєстрація",
+            "fields": {
+                "firstname": "Ім'я",
+                "middlename": "По батькові",
+                "lastname": "Прізвище",
+                "organization": "Назва організації",
+                "email": "Email",
+                "password": "Пароль"
+            },
+            "submit": "Зареєструватися"
+        }
+    }
+}

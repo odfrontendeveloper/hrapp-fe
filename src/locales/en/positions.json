@@ -1,0 +1,12 @@
+{
+    "create": "Create work position",
+    "edit": "Edit work position",
+    "delete": {
+        "confirm": "Are you sure you want to delete this work position?"
+    },
+    "success": {
+        "create": "Work positions created",
+        "edit": "Work positions edited",
+        "delete": "Work positions deleted"
+    }
+}

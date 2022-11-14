@@ -1,0 +1,28 @@
+{
+    "signIn": {
+        "title": "Sign In",
+        "form": {
+            "title": "Sign In",
+            "fields": {
+                "email": "Email",
+                "password": "Password"
+            },
+            "submit": "Sign In"
+        }
+    },
+    "signUp": {
+        "title": "Sign Up",
+        "form": {
+            "title": "Sign Up",
+            "fields": {
+                "firstname": "First name",
+                "middlename": "Middle name",
+                "lastname": "Last name",
+                "organization": "Organization name",
+                "email": "Email",
+                "password": "Password"
+            },
+            "submit": "Sign Up"
+        }
+    }
+}

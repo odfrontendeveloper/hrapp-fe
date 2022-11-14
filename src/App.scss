@@ -1,0 +1,32 @@
+@import 'variables.scss';
+
+.appLoadingBox {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &Loader {
+        color: $appColor;
+    }
+}
+
+.minWidth650 {
+    min-width: 650px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.marginLeft25 {
+    margin-left: 25px;
+}
+
+.flex {
+    display: flex;
+}
+.flexItemsCenter {
+    display: flex;
+    align-items: center;
+}

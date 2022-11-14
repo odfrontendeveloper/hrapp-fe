@@ -1,0 +1,14 @@
+.filtersTypography {
+    font-size: 13px !important;
+    margin: 7px 10px !important;
+}
+
+.filtersFormControl {
+    margin: 0px 10px !important;
+    width: 300px !important;
+
+    &SearchField {
+        margin-bottom: 3px !important;
+        transform: scale(0.9) !important;
+    }
+}
